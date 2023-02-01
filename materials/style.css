@@ -18,7 +18,7 @@ body {
     padding: 0;
     margin: 0;
     overflow-x: hidden;
-    --primary: hsl(290, 91%, 46%);
+    --primary: #10b9ec;
     --primaryShade: hsl(0, 0%, 100%);
     --secondaryShade: hsl(200, 20%, 97%);
     --tertiaryShade: hsl(240, 18%, 20%);
